@@ -1,0 +1,5 @@
+claim_id,policy_id,claim_amount,claim_status
+201,101,100000,approved
+202,102,50000,pending
+203,103,150000,rejected
+204,104,300000,approved

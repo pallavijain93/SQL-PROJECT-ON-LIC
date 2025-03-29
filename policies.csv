@@ -1,0 +1,5 @@
+policy_id,policyholder_id,policy_type,Premium,coverage_amount,nominee_amount
+101,1,moneyback plan,2000,500000,null
+102,2,term insurance,3000,300000,null
+103,3,term insurance,1500,1000000,null
+104,4,endowment plan,2500,600000,null
